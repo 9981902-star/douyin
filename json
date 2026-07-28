@@ -1,1 +1,16 @@
-
+[
+      {
+        id: 1,
+        name: "让你修仙，没让你成为宗门钉子户",
+        cover: "/images/covers/drama1.png",
+        douyin_play: 131943042,
+        hongguoLink: "123"
+      },
+      {
+        id: 2,
+        name: "让帝域衡道",
+        cover: "/images/covers/drama2.png",
+        douyin_play: 2080857,
+        hongguoLink: "123"
+      }
+    ]
